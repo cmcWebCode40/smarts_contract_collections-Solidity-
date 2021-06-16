@@ -1,1 +1,1 @@
-# smarts_contract_collections-Solidity-
+# smarts_contract_collections_Solidity
